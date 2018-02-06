@@ -1,0 +1,9 @@
+#include <iostream>
+
+main
+{
+
+std::cout<<"hello World" << endl ;
+std::cout<<"Adam Cook Joining the program" << endl ; 
+
+}
