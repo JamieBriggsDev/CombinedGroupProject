@@ -10,7 +10,7 @@
 #include "GameFramework/SpringArmComponent.h"
 
 //////////////////////////////////////////////////////////////////////////
-// ACombinedGroupProjectCharacter
+//// ACombinedGroupProjectCharacter
 
 ACombinedGroupProjectCharacter::ACombinedGroupProjectCharacter()
 {
