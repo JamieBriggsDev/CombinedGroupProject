@@ -56,6 +56,9 @@ Saved/*
 # Compiled source files for the engine to use
 Intermediate/*
 
+# CPP and Header Files
+Source/*
+
 # Cache files for the editor to use
 DerivedDataCache/*
 
