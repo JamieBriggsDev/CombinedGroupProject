@@ -15,7 +15,16 @@ public class CombinedGroupProject : ModuleRules
 		"OnlineSubsystemUtils"
 		
 		});
+
+        if((Target.Platform ==
+            UnrealTargetPlatform.Win32) || (Target.Platform ==
+            UnrealTargetPlatform.Win64) || (Target.Platform ==
+            UnrealTargetPlatform.Linux))
+        {
+
+		        DynamicallyLoadedModuleNames.Add("OnlineSubsystemSteam");
+            
+        }
 		
-		DynamicallyLoadedModuleNames.Add("OnlineSubsystemSteam");
 	}
 }

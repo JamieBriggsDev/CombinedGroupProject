@@ -9,5 +9,7 @@ public class CombinedGroupProjectTarget : TargetRules
 	{
 		Type = TargetType.Game;
 		ExtraModuleNames.Add("CombinedGroupProject");
+
+        //UEBuildConfiguration.bCompileSteamOSS = true;
 	}
 }
