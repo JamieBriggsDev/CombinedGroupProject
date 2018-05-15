@@ -12,7 +12,8 @@ public class CombinedGroupProject : ModuleRules
 		
 		 PublicDependencyModuleNames.AddRange(new string[] { 
 		"OnlineSubsystem",
-		"OnlineSubsystemUtils"
+		"OnlineSubsystemUtils",
+        "Steamworks"
 		
 		});
 
