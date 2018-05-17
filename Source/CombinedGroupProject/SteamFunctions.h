@@ -20,6 +20,13 @@ class COMBINEDGROUPPROJECT_API USteamFunctions : public UBlueprintFunctionLibrar
 public:
 		UFUNCTION(BlueprintCallable, Category = "SteamFunctions")
 		static UTexture2D* GetSteamAvatar();
+
+		UFUNCTION(BlueprintCallable, Category = "SteamFunctions")
+			static UTexture2D* GetSteamAvatarByID(FString _playerSteamID);
+
+
+private:
+	static CSteamID SteamIDStringToCSteamID(FString _playerSteamID);
 	
 	
 };
