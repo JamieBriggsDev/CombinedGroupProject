@@ -2,6 +2,26 @@
 
 #include "SteamFunctions.h"
 
+#define ARRAY_COUNT( array ) (sizeof(ArrayCountHelper(array)) - 1)
+
+//
+//FString CSteamIDtoFString(CSteamID i)
+//{
+//	sprintf_s(steamidbuf, sizeof(steamidbuf), "%llu", i.ConvertToUint64());
+//	return FString(steamidbuf);
+//}
+
+CSteamID USteamFunctions::SteamIDStringToCSteamID(FString _playerSteamID)
+{
+	uint64 i64 = 0;
+	int convCount = sscanf_s(TCHAR_TO_ANSI(*_playerSteamID), "%llu", &i64);
+	if (convCount == 0)
+	{
+		//UE_LOG(DSS_STEAM, Log, TEXT("SteamIDStringToCSteamID - invalid input string %s"), *_playerSteamID);
+		return CSteamID((uint64)0);
+	}
+	return CSteamID(i64);
+}
 
 UTexture2D* USteamFunctions::GetSteamAvatar()
 {
@@ -106,15 +126,14 @@ UTexture2D* USteamFunctions::GetSteamAvatarByID(FString _playerSteamID)
 	return nullptr;
 }
 
-
-CSteamID USteamFunctions::SteamIDStringToCSteamID(FString _playerSteamID)
+FString USteamFunctions::GetSteamID()
 {
-	uint64 i64 = 0;
-	int convCount = sscanf_s(TCHAR_TO_ANSI(*_playerSteamID), "%llu", &i64);
-	if (convCount == 0)
-	{
-		//UE_LOG(DSS_STEAM, Log, TEXT("SteamIDStringToCSteamID - invalid input string %s"), *_playerSteamID);
-		return CSteamID((uint64)0);
-	}
-	return CSteamID(i64);
+	CSteamID steamID = SteamUser()->GetSteamID();
+
+	uint64 Return = steamID.CSteamID::ConvertToUint64();
+
+	//Return ID as String if Found
+	return FString::FromInt(Return);
 }
+
+

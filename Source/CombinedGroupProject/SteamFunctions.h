@@ -24,9 +24,13 @@ public:
 		UFUNCTION(BlueprintCallable, Category = "SteamFunctions")
 			static UTexture2D* GetSteamAvatarByID(FString _playerSteamID);
 
+		UFUNCTION(BlueprintCallable, Category = "SteamFunctions")
+			static FString GetSteamID();
+		
 
 private:
 	static CSteamID SteamIDStringToCSteamID(FString _playerSteamID);
 	
+	//static FString CSteamIDtoFString(CSteamID i);
 	
 };
