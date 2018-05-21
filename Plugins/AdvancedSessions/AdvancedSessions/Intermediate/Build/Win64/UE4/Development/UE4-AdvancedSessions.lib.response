@@ -1,0 +1,8 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+"D:\Git\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4\Development\AdvancedSessions\Module.AdvancedSessions.cpp.obj"
+"D:\Git\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4\Development\AdvancedSessions\Module.AdvancedSessions.gen.cpp.obj"
+"D:\Git\CombinedGroupProject\Intermediate\Build\Win64\UE4\Development\AdvancedSessions\PCLaunch.rc.res"
+/OUT:"D:\Git\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSessions\Binaries\Win64\UE4-AdvancedSessions.lib"
