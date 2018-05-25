@@ -28,11 +28,19 @@
 /NODEFAULTLIB:"LIBCP"
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
+<<<<<<< HEAD
 "D:\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
 "C:\Users\Beel\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
 "C:\Users\Beel\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.gen.cpp.obj"
 "D:\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\PCLaunch.rc.res"
 "D:\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+=======
+"D:\University\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Adam\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
+"C:\Users\Adam\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.gen.cpp.obj"
+"D:\University\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\PCLaunch.rc.res"
+"D:\University\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+>>>>>>> 956a0df74f21bc2f432a73059c9ce775754fd762
 "delayimp.lib"
 "wininet.lib"
 "rpcrt4.lib"
@@ -58,6 +66,7 @@
 "dwmapi.lib"
 "imm32.lib"
 "steam_api64.lib"
+<<<<<<< HEAD
 "D:\Epic Games\UE_4.19\Engine\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-OnlineSubsystem.lib"
 "D:\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Sockets.lib"
 "D:\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Networking.lib"
@@ -71,4 +80,19 @@
 /OUT:"C:\Users\Beel\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSteamSessions\Binaries\Win64\UE4Editor-AdvancedSteamSessions.dll"
 /IMPLIB:"C:\Users\Beel\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-AdvancedSteamSessions.suppressed.lib"
 /PDB:"C:\Users\Beel\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSteamSessions\Binaries\Win64\UE4Editor-AdvancedSteamSessions.pdb"
+=======
+"D:\University\Epic Games\UE_4.19\Engine\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-OnlineSubsystem.lib"
+"D:\University\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Sockets.lib"
+"D:\University\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Networking.lib"
+"D:\University\Epic Games\UE_4.19\Engine\Plugins\Online\OnlineSubsystemUtils\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-OnlineSubsystemUtils.lib"
+"D:\University\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Core.lib"
+"D:\University\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CoreUObject.lib"
+"D:\University\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Engine.lib"
+"D:\University\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-InputCore.lib"
+"C:\Users\Adam\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-AdvancedSessions.lib"
+"D:\University\Epic Games\UE_4.19\Engine\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-OnlineSubsystemSteam.lib"
+/OUT:"C:\Users\Adam\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSteamSessions\Binaries\Win64\UE4Editor-AdvancedSteamSessions.dll"
+/IMPLIB:"C:\Users\Adam\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-AdvancedSteamSessions.suppressed.lib"
+/PDB:"C:\Users\Adam\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSteamSessions\Binaries\Win64\UE4Editor-AdvancedSteamSessions.pdb"
+>>>>>>> 956a0df74f21bc2f432a73059c9ce775754fd762
 /ignore:4078
