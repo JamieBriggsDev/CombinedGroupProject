@@ -26,11 +26,19 @@
 /NODEFAULTLIB:"LIBCP"
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
+<<<<<<< HEAD
+"D:\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Beel\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.cpp.obj"
+"C:\Users\Beel\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.gen.cpp.obj"
+"D:\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\PCLaunch.rc.res"
+"D:\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+=======
 "D:\University\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
 "C:\Users\Adam\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.cpp.obj"
 "C:\Users\Adam\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.gen.cpp.obj"
 "D:\University\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\PCLaunch.rc.res"
 "D:\University\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+>>>>>>> 956a0df74f21bc2f432a73059c9ce775754fd762
 "delayimp.lib"
 "wininet.lib"
 "rpcrt4.lib"
@@ -55,6 +63,19 @@
 "setupapi.lib"
 "dwmapi.lib"
 "imm32.lib"
+<<<<<<< HEAD
+"D:\Epic Games\UE_4.19\Engine\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-OnlineSubsystem.lib"
+"D:\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Sockets.lib"
+"D:\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Networking.lib"
+"D:\Epic Games\UE_4.19\Engine\Plugins\Online\OnlineSubsystemUtils\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-OnlineSubsystemUtils.lib"
+"D:\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Core.lib"
+"D:\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CoreUObject.lib"
+"D:\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Engine.lib"
+"D:\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-InputCore.lib"
+/OUT:"C:\Users\Beel\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSessions\Binaries\Win64\UE4Editor-AdvancedSessions.dll"
+/IMPLIB:"C:\Users\Beel\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-AdvancedSessions.suppressed.lib"
+/PDB:"C:\Users\Beel\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSessions\Binaries\Win64\UE4Editor-AdvancedSessions.pdb"
+=======
 "D:\University\Epic Games\UE_4.19\Engine\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-OnlineSubsystem.lib"
 "D:\University\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Sockets.lib"
 "D:\University\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Networking.lib"
@@ -66,4 +87,5 @@
 /OUT:"C:\Users\Adam\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSessions\Binaries\Win64\UE4Editor-AdvancedSessions.dll"
 /IMPLIB:"C:\Users\Adam\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-AdvancedSessions.suppressed.lib"
 /PDB:"C:\Users\Adam\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSessions\Binaries\Win64\UE4Editor-AdvancedSessions.pdb"
+>>>>>>> 956a0df74f21bc2f432a73059c9ce775754fd762
 /ignore:4078

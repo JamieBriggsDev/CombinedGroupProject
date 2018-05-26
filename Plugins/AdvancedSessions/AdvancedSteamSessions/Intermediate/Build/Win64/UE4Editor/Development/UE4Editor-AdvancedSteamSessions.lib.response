@@ -6,9 +6,18 @@
 /NAME:"UE4Editor-AdvancedSteamSessions.dll"
 /IGNORE:4221
 /NODEFAULTLIB
+<<<<<<< HEAD
+"D:\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Beel\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
+"C:\Users\Beel\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.gen.cpp.obj"
+"D:\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\PCLaunch.rc.res"
+"D:\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\Beel\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-AdvancedSteamSessions.lib"
+=======
 "D:\University\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
 "C:\Users\Adam\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
 "C:\Users\Adam\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.gen.cpp.obj"
 "D:\University\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\PCLaunch.rc.res"
 "D:\University\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
 /OUT:"C:\Users\Adam\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-AdvancedSteamSessions.lib"
+>>>>>>> 956a0df74f21bc2f432a73059c9ce775754fd762

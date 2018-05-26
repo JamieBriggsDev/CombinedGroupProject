@@ -76,3 +76,23 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 Content/Blueprints/Gameplay/GameplayGM\.uasset
+Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSteamSessions/Timestamp
+Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-AdvancedSteamSessions.suppressed.exp
+Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-AdvancedSteamSessions.lib.response
+Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-AdvancedSteamSessions.exp
+Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-AdvancedSteamSessions.dll.response
+Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UE4Editor/Development/AdvancedSteamSessions/Module.AdvancedSteamSessions.gen.cpp.obj.response
+Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UE4Editor/Development/AdvancedSteamSessions/Module.AdvancedSteamSessions.gen.cpp
+Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UE4Editor/Development/AdvancedSteamSessions/Module.AdvancedSteamSessions.cpp.obj.response
+Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UE4Editor/Development/AdvancedSteamSessions/Module.AdvancedSteamSessions.cpp
+Plugins/AdvancedSessions/AdvancedSteamSessions/Binaries/Win64/UE4Editor-AdvancedSteamSessions.pdb
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSessions/Timestamp
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-AdvancedSessions.suppressed.exp
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-AdvancedSessions.lib.response
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-AdvancedSessions.exp
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-AdvancedSessions.dll.response
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4Editor/Development/AdvancedSessions/Module.AdvancedSessions.gen.cpp.obj.response
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4Editor/Development/AdvancedSessions/Module.AdvancedSessions.gen.cpp
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4Editor/Development/AdvancedSessions/Module.AdvancedSessions.cpp.obj.response
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4Editor/Development/AdvancedSessions/Module.AdvancedSessions.cpp
+Plugins/AdvancedSessions/AdvancedSessions/Binaries/Win64/UE4Editor-AdvancedSessions.pdb
