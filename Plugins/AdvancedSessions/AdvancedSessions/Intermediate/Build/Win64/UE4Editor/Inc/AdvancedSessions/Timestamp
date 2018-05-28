@@ -1,25 +1,3 @@
-<<<<<<< HEAD
-C:\Users\Beel\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedExternalUILibrary.h
-C:\Users\Beel\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsGameInstance.h
-C:\Users\Beel\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsInterface.h
-C:\Users\Beel\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsLibrary.h
-C:\Users\Beel\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedIdentityLibrary.h
-C:\Users\Beel\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedSessionsLibrary.h
-C:\Users\Beel\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedVoiceLibrary.h
-C:\Users\Beel\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\BlueprintDataDefinitions.h
-C:\Users\Beel\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\CancelFindSessionsCallbackProxy.h
-C:\Users\Beel\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\CreateSessionCallbackProxyAdvanced.h
-C:\Users\Beel\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\EndSessionCallbackProxy.h
-C:\Users\Beel\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\FindFriendSessionCallbackProxy.h
-C:\Users\Beel\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\FindSessionsCallbackProxyAdvanced.h
-C:\Users\Beel\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\GetFriendsCallbackProxy.h
-C:\Users\Beel\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\GetRecentPlayersCallbackProxy.h
-C:\Users\Beel\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\GetUserPrivilegeCallbackProxy.h
-C:\Users\Beel\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\LoginUserCallbackProxy.h
-C:\Users\Beel\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\LogoutUserCallbackProxy.h
-C:\Users\Beel\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\SendFriendInviteCallbackProxy.h
-C:\Users\Beel\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\UpdateSessionCallbackProxyAdvanced.h
-=======
 C:\Users\Adam\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedExternalUILibrary.h
 C:\Users\Adam\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsGameInstance.h
 C:\Users\Adam\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsInterface.h
@@ -40,4 +18,3 @@ C:\Users\Adam\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\Adv
 C:\Users\Adam\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\LogoutUserCallbackProxy.h
 C:\Users\Adam\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\SendFriendInviteCallbackProxy.h
 C:\Users\Adam\Documents\GitHub\CombinedGroupProject\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\UpdateSessionCallbackProxyAdvanced.h
->>>>>>> 956a0df74f21bc2f432a73059c9ce775754fd762
